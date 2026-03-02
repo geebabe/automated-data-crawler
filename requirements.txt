@@ -1,0 +1,9 @@
+playwright
+pandas
+beautifulsoup4
+lxml
+requests
+apache-airflow
+google-genai
+pydantic
+python-dotenv
